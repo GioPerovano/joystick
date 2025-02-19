@@ -93,6 +93,4 @@ Lê os valores dos eixos X e Y do joystick 🎮 via ADC.
 
 ## 🎥 Link do vídeo no Youtube: https://youtu.be/ZSLLRZobi5I
 
-## 📂 Link do vídeo no Google Drive: 
-
 ## 🌐 Link da simulação no Wokwi:  https://wokwi.com/projects/423275319393558529
