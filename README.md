@@ -3,13 +3,12 @@
 Este projeto foi desenvolvido para controlar LEDs RGB 🌈 e um LED verde 💡 usando um joystick, além de exibir informações no display OLED SSD1306 🖥️. Ele utiliza a placa Raspberry Pi Pico 🧑‍💻 e se comunica com o display via I2C e com o joystick via ADC. A funcionalidade inclui o controle dos LEDs com base na posição do joystick e o controle do display OLED para exibir um quadrado em movimento.
 
 ## Tabela de Conteúdos 📑
-1. [Descrição do Projeto](#descrição-do-projeto)
-2. [Hardware Requerido](#hardware-requerido)
-3. [Funcionamento do Código](#funcionamento-do-código)
-4. [Configuração do Sistema](#configuração-do-sistema)
-5. [Funções](#funções)
-6. [Compilação e Execução](#compilação-e-execução)
-7. [Licença](#licença)
+1. Descrição do Projeto
+2. Hardware Requerido
+3. Funcionamento do Código
+4. Configuração do Sistema
+5. Funções
+6. Compilação e Execução
 
 ## Descrição do Projeto 📝
 Este projeto implementa a leitura de um joystick 🎮 (com botões e controle analógico), controla LEDs RGB 🌈 e um LED verde 💡, além de exibir um quadrado no display OLED 🖥️ com base nos dados do joystick. O código é projetado para ser executado em uma Raspberry Pi Pico 🧑‍💻, utilizando suas funcionalidades de PWM para controle de brilho dos LEDs e I2C para o display OLED.
@@ -91,10 +90,3 @@ Lê os valores dos eixos X e Y do joystick 🎮 via ADC.
 
 4. **Executar o Código**:
    - Após copiar o arquivo para o Raspberry Pi Pico, ele será executado automaticamente.
-
-## Licença 📄
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Este README oferece uma visão geral do projeto e como configurá-lo e executá-lo em sua Raspberry Pi Pico. Certifique-se de conectar corretamente os pinos e usar o código de acordo com a configuração do hardware.
