@@ -72,7 +72,7 @@ Lê os valores dos eixos X e Y do joystick 🎮 via ADC.
 
 ## Compilação e Execução 💻
 1. **Instalar o SDK do Raspberry Pi Pico**:
-   - Baixe e configure o SDK do Raspberry Pi Pico em sua máquina. Siga as instruções no [site oficial](https://www.raspberrypi.org/documentation/pico/getting-started/).
+   - Baixe e configure o SDK do Raspberry Pi Pico em sua máquina. Siga as instruções no site oficial.
    
 2. **Compilar o Código**:
    - Para compilar o código, utilize a ferramenta `CMake` junto com o SDK do Raspberry Pi Pico.
@@ -90,3 +90,9 @@ Lê os valores dos eixos X e Y do joystick 🎮 via ADC.
 
 4. **Executar o Código**:
    - Após copiar o arquivo para o Raspberry Pi Pico, ele será executado automaticamente.
+
+## 🎥 Link do vídeo no Youtube: 
+
+## 📂 Link do vídeo no Google Drive: 
+
+## 🌐 Link da simulação no Wokwi:  https://wokwi.com/projects/423275319393558529
