@@ -91,7 +91,7 @@ Lê os valores dos eixos X e Y do joystick 🎮 via ADC.
 4. **Executar o Código**:
    - Após copiar o arquivo para o Raspberry Pi Pico, ele será executado automaticamente.
 
-## 🎥 Link do vídeo no Youtube: 
+## 🎥 Link do vídeo no Youtube: https://youtu.be/ZSLLRZobi5I
 
 ## 📂 Link do vídeo no Google Drive: 
 
